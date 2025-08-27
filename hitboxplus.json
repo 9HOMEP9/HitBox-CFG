@@ -1,0 +1,126 @@
+{
+  "isModEnabled": true,
+  "color": 16777215,
+  "alpha": 10,
+  "middleClick": "CYCLE",
+  "isPlayerConfigEnabled": true,
+  "friend": {
+    "list": [
+      "shoymenpon",
+      "Goriachiy_Pelmen",
+      "6e3_PvP_HaCnaBHE",
+      "Allan_grib",
+      "Aqomo",
+      "Fupnew",
+      "georga99",
+      "ihateuuu",
+      "levandoscik",
+      "millionlavv",
+      "p0st3rb0y",
+      "Sabbarg",
+      "uebalmolly",
+      "WhoYanD0c",
+      "yatosa_",
+      "Zadudoderr",
+      "HOMEP_9",
+      "Ligran_UwU",
+      "Clown2Y",
+      ""
+    ],
+    "color": 4583989,
+    "alpha": 10
+  },
+  "enemy": {
+    "list": [
+      "satasayo",
+      "zhanulka_",
+      "sobach1y_depytat",
+      "AHIME_nCIX2013",
+      "AP6Y3HbIU_6APOH"
+    ],
+    "color": 16724787,
+    "alpha": 10
+  },
+  "neutral": {
+    "color": 5412095,
+    "alpha": 10
+  },
+  "self": {
+    "color": 16735351,
+    "alpha": 10
+  },
+  "passive": {
+    "isEnabled": false,
+    "color": 16777215,
+    "alpha": 10
+  },
+  "hostile": {
+    "isEnabled": false,
+    "color": 16777215,
+    "alpha": 10
+  },
+  "decoration": {
+    "isEnabled": false,
+    "color": 16777215,
+    "alpha": 10
+  },
+  "projectile": {
+    "isEnabled": false,
+    "color": 16777215,
+    "alpha": 10,
+    "renderStuck": false
+  },
+  "vehicle": {
+    "isEnabled": false,
+    "color": 16777215,
+    "alpha": 10
+  },
+  "enderDragon": {
+    "isEnabled": true,
+    "realHitbox": true,
+    "boxHitbox": false,
+    "color": 16777215,
+    "alpha": 10,
+    "partColor": 16777215,
+    "partAlpha": 10
+  },
+  "misc": {
+    "isEnabled": false,
+    "areaEffectCloud": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "experienceOrb": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "eyeOfEnder": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "fallingBlock": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "item": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "tnt": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "endCrystalEntity": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "enderPearlEntity": {
+      "color": 16777215,
+      "alpha": 10
+    },
+    "tridentEntity": {
+      "color": 16777215,
+      "alpha": 10
+    }
+  }
+}
